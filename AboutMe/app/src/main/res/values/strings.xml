@@ -2,7 +2,7 @@
     <string name="app_name">AboutMe</string>
     <string name="user_name_tv">Paulo</string>
     <string name="yellow_start">Yellow star</string>
-    <string name="bio">É sequência de <i>toma toma</i>,
+    <string name="bio">É sequência de <b><i>toma toma</i></b>,
         sequência de <b>vapo vapo</b></string>
     <string name="long_bio">Hi, my name is Flávio.
         \n\nI love fish.
